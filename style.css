@@ -3,25 +3,23 @@
 }
 
 body{
-    background-color: #1B223E;
-    color: #CAD2C5;
+    background-color: #CAD2C5;
+    color: black;
     font-weight: bolder;
     
 }
 #name_and_title{
     font-size: 200%;
-    -webkit-text-stroke: #656256 1.5px;
+    -webkit-text-stroke: #1B223E 1.5px;
     box-sizing: border-box;
-    border: .5em solid #656256;;
-    background-color: #7978A5;
+    border: .5em solid #656256;
     padding: 1em;
     text-align: center;
 }
 #about_me{
-    font-size: 200%;
+    font-size: 150%;
     box-sizing: border-box;
-    border: .5em solid #656256;;
-    background-color: #7978A5;
+    border: .5em solid #656256;
     padding: 1em;
     text-align: center;
     float: left;
@@ -29,10 +27,11 @@ body{
     margin-top: 5%;
 }
 #who{
-    -webkit-text-stroke: #656256 1.5px;
+    -webkit-text-stroke: #1B223E 1.5px;
+    font-size: 160%;
 }
 #who_p{
-    -webkit-text-stroke: #656256 1.1px;
+    text-align: left;
 }
 
 #my_skills{
