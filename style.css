@@ -125,6 +125,7 @@ body{
     }
     #main_street{
         margin-top: 1%;
+        max-height: 50%;
     }
     
 }
