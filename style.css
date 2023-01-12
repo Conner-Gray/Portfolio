@@ -63,7 +63,32 @@ body{
 
 }
 #my_skills{
-   margin-top: 5%;
+    display: flex;
+    flex-direction: row;
+    max-width: 90%;
+    min-width: 30%;
+    max-height: 50%;
+    min-height: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 5%;
+}
+#skills_txt{
+    font-size: 150%;
+    box-sizing: border-box;
+    border: .5em solid #656256;
+    padding: 1em;
+    float: left;
+    margin-right: 3%;
+    min-width: 65%;
+    max-height: fit-content;
+    resize: none;
+}
+#skills_h{
+
+}
+#skills_p{
+
 }
 #my_projects{
     float: left;
