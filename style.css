@@ -94,3 +94,10 @@ body{
     float: left;
     margin-top: 5%;
 }
+
+@media screen and (max-width: 1200px) {
+    #part1{
+        flex-direction: column;
+    }
+    
+}
