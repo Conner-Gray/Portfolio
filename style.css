@@ -114,6 +114,14 @@
     min-width: 65%;
     max-height: fit-content;
     resize: none;
+    /* padding-bottom: .5em; */
+    margin-bottom: 10%;
+}
+
+#contact{
+    justify-content: center;
+    position: relative;
+    margin-left: 40%
 }
 
 #contact_list{
@@ -122,15 +130,19 @@
     padding: 0;
     overflow: hidden;
     text-shadow: none;
-    font-size: 200%;
-    background-color: #071013;
+    font-size: 150%;
     margin-top: 2%;
     position: fixed;
     bottom: 0;
-    width: 100%
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
 }
 
 .link_list{
+    
+    background-color: #071013;
     color: #3E78B2;
     display: block;
     padding: 1em;
@@ -204,5 +216,11 @@
         max-height: 50%;
         align-items: flex-start;
     }
-    
+    #projects_txt{
+        margin-bottom: 20%;
+    }
+    #contact{
+        margin-left: 25%;
+        margin-right: 40%;
+    }
 }
