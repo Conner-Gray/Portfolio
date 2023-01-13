@@ -223,4 +223,25 @@
         margin-left: 25%;
         margin-right: 40%;
     }
+@media screen and (max-width: 400px) {
+    #part1{
+        flex-direction: column;
+    }
+    #main_street{
+        margin-top: 1%;
+        max-height: 50%;
+        align-items: flex-start;
+    }
+    #projects_txt{
+        margin-bottom: 20%;
+    }
+    #contact{
+        margin-left: 10%;
+        font-size: 120%;
+        width: 0;
+    }
+    #contact_list{
+        font-size: 100%;
+    }
+}
 }
