@@ -141,7 +141,6 @@
 }
 
 .link_list{
-    
     background-color: #071013;
     color: #3E78B2;
     display: block;
@@ -252,6 +251,9 @@
         padding: 0%;
         font-size: 100%;
         margin-left: 0;
+        position: relative;
+        margin-left: 0%;
+        left:0;
     }
     
 }
