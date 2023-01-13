@@ -151,8 +151,6 @@
     #main_street{
         margin-top: 1%;
         max-height: 50%;
-        height: 50%;
-        min-height: 50%;
         align-items: flex-start;
     }
     
