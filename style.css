@@ -236,6 +236,7 @@
         margin-bottom: 20%;
     }
     #contact{
+        position: fixed;
         margin-left: 0;
         font-size: 120%;
         width: 0;
