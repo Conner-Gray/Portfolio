@@ -3,8 +3,8 @@
 }
 
 #my_body{
-    background-color: #CAD2C5;
-    color: #252527;
+    background-color: #FFFBF1;
+    color: #071013;
     font-weight: bolder;
     margin: 0%;
     
@@ -13,9 +13,18 @@
     font-size: 200%;
     -webkit-text-stroke: #1B223E 1.5px;
     box-sizing: border-box;
-    border: .5em solid #585655;
+    border: .5em solid #846C5B;
     padding: 1em;
     text-align: center;
+}
+#my_name{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    -webkit-text-size-adjust: 20%;
+}
+#my_title{
+    font-size: 115%;
+    font-weight: 100;
 }
 
 #part1{
@@ -33,7 +42,7 @@
     order: 1;
     font-size: 150%;
     box-sizing: border-box;
-    border: .5em solid #585655;
+    border: .5em solid #846C5B;
     padding: 1em;
     float: left;
     margin-right: 3%;
@@ -43,7 +52,6 @@
 }
 #who{
     text-align: center;
-    -webkit-text-stroke: #1B223E 1.5px;
     font-size: 160%;
 }
 #who_p{
@@ -56,7 +64,7 @@
     min-width: 35%;
     max-height: 10%;
     min-height: 10%;
-    border: 2px solid #1B223E;
+    border: 2px solid #846C5B;
 }
 
 #my_skills, #my_projects{
@@ -77,7 +85,7 @@
 #skills_txt{
     font-size: 150%;
     box-sizing: border-box;
-    border: .5em solid #585655;
+    border: .5em solid #846C5B;
     padding: 1em;
     float: left;
     margin-right: 3%;
@@ -105,7 +113,7 @@
 #projects_txt{
     font-size: 150%;
     box-sizing: border-box;
-    border: .5em solid #585655;
+    border: .5em solid #846C5B;
     padding: 1em;
     float: left;
     margin-right: 3%;
@@ -123,7 +131,7 @@
 #contact_list{
     position: fixed;
     bottom: 0;
-    background-color: black;
+    background-color: #071013;
     font-size: 200%;
     list-style-type: none;
     margin: 0;
@@ -158,7 +166,7 @@
 
 }
 #linkedin_link:active{
-    
+
 }
 
 
