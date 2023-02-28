@@ -122,14 +122,14 @@ a{
     color: #3E78B2;
     text-decoration: none;
 }
-#a:visited{
+a:visited{
     color: #3E78B2;
 }
-#a:hover{
+a:hover{
     color:#7D5BA6;
     text-decoration: underline;
 }
-#a:active{
+a:active{
     color:#FFFBF1;
 }
 
